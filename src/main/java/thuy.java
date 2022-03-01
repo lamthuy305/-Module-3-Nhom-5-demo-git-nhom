@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class thuy {
+public class thuy {
+    int a = 5;
 }
